@@ -27,9 +27,13 @@ A basic calculator built with HTML, CSS, and JavaScript.
 
 ## Project Structure
 calculator-app/
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── README.md
 
 
