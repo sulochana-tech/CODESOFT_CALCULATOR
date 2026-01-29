@@ -26,7 +26,7 @@ A basic calculator built with HTML, CSS, and JavaScript.
 - JavaScript (ES6)
 
 ## Project Structure
-calculator-app/
+CODESOFT_CALCULATOR/
 
 ├── index.html
 
