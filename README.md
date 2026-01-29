@@ -17,9 +17,6 @@ A basic calculator built with HTML, CSS, and JavaScript.
 4. Use "C" to clear
 5. Use "⌫" for backspace
 
-## Live Demo
-[View Live Calculator](https://sulochana-tech.github.io/CODESOFT_CALCULATOR/)
-
 ## Technologies Used
 - HTML5
 - CSS3 (Grid, Flexbox)
