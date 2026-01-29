@@ -26,3 +26,10 @@ A basic calculator built with HTML, CSS, and JavaScript.
 - JavaScript (ES6)
 
 ## Project Structure
+calculator-app/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+
+
